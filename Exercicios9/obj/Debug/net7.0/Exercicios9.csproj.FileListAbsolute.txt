@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\bin\Debug\net7.0\Exercicios9.exe
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\bin\Debug\net7.0\Exercicios9.deps.json
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\bin\Debug\net7.0\Exercicios9.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\bin\Debug\net7.0\Exercicios9.dll
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\bin\Debug\net7.0\Exercicios9.pdb
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\obj\Debug\net7.0\Exercicios9.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\obj\Debug\net7.0\Exercicios9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\obj\Debug\net7.0\Exercicios9.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\obj\Debug\net7.0\Exercicios9.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\obj\Debug\net7.0\Exercicios9.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\obj\Debug\net7.0\Exercicios9.dll
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\obj\Debug\net7.0\refint\Exercicios9.dll
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\obj\Debug\net7.0\Exercicios9.pdb
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\obj\Debug\net7.0\Exercicios9.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\AtividadeAula\Exercicios9\obj\Debug\net7.0\ref\Exercicios9.dll
